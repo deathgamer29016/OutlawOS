@@ -36,3 +36,9 @@ Contributors should understand that:
 - contributors participate because they want to help the project
 
 If the project ever generates funding in the future, compensation models may be discussed.
+
+## Code Standards
+
+- Code should be readable and documented
+- Security-sensitive code must be reviewed
+- Avoid unnecessary dependencies

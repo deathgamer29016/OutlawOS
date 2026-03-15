@@ -35,3 +35,15 @@ Future plans may include a mobile version.
 Early development stage.
 
 Contributors are welcome.
+
+## Installation (future)
+
+Instructions for installing OutlawOS will be added once the first prototype is available.
+
+## Development Status
+
+OutlawOS is currently in planning and early documentation stages.
+
+## License
+
+OutlawOS is licensed under the GNU GPLv3.

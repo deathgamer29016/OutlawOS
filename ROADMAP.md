@@ -3,6 +3,16 @@
 This roadmap outlines the planned development stages for OutlawOS.
 
 ---
+## Phase 0 — Research and Design
+
+Goals:
+
+- choose base Linux distribution
+- define architecture
+- define security model
+- create development documentation
+    
+---
 
 ## Phase 1 — Project Foundation
 

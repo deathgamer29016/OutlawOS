@@ -42,3 +42,5 @@ OutlawOS aims to provide:
 - strong encryption
 - user control over network activity
 - open source verification of all core components
+
+OutlawOS is currently experimental and should not yet be relied upon for real security.

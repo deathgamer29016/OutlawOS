@@ -47,3 +47,5 @@ OutlawOS is currently in planning and early documentation stages.
 ## License
 
 OutlawOS is licensed under the GNU GPLv3.
+
+⚠ This project is currently in early planning. No usable system exists yet.
